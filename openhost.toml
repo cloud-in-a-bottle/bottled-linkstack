@@ -1,7 +1,7 @@
 [app]
 name = "linkstack"
 version = "0.1.0"
-description = "LinkStack (open-source Linktree alternative) packaged for OpenHost with one-click owner SSO and public link-page passthrough."
+description = "LinkStack (open-source Linktree alternative) packaged for Cloud in a Bottle with one-click owner SSO and public link-page passthrough."
 authors = ["Andrew Laack <andrew@laack.co>"]
 
 [runtime.container]
